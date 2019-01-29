@@ -4,7 +4,8 @@
 
 We will be using R in this course. Please get R installed beforehand. The following link provides detailed instructions. 
 https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu
-Contact Tianning if you have any questions!
+
+Contact Tianning if you have any questions:)
 
 ## Some useful resources to learn R
 
