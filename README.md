@@ -10,7 +10,7 @@ Contact Tianning if you have any questions!
 
 There are tons of great resources online to help you start with R no matter what coding background you have. There are some cheatsheets for python and matlab coders in *Resources* folder. 
 
-Datacamp is also a great resource to learn R if you just started with coding.
+Datacamp is also a great resource to learn R if you just started with coding. And you can find videos for free on youtube as well. https://www.youtube.com/channel/UC79Gv3mYp6zKiSwYemEik9A/playlists
 
 R can also be run directly in the terminal, just type 'R'. Command line is very useful in general. Feel free to search online to learn more about it! There is also a cheatsheet for some basic commands. https://www.git-tower.com/blog/command-line-cheat-sheet/
 
